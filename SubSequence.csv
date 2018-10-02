@@ -1,0 +1,13 @@
+Reference, Quantity, Value, Footprint, Datasheet
+C1 C2 C3 ,3,"100n","Capacitors_SMD:C_0805","~"
+C4 ,1,"10u","Capacitors_SMD:CP_Elec_4x5.8","~"
+D1 D2 D3 D4 D5 D6 D7 D8 ,8,"LED","LEDs:LED_D3.0mm","~"
+D10 D11 D12 D13 D14 D15 D16 D9 ,8,"1N4148","Diodes_SMD:D_SOD-123F","http://www.nxp.com/documents/data_sheet/1N4148_1N4448.pdf"
+J1 J2 ,2,"Conn_02x03_Odd_Even","Pin_Headers:Pin_Header_Straight_2x03_Pitch2.54mm","~"
+J3 ,1,"Conn_01x03","Pin_Headers:Pin_Header_Straight_1x03_Pitch2.54mm","~"
+R1 ,1,"10k","Resistors_SMD:R_0805","~"
+R2 R3 R4 R5 R6 R7 R8 R9 ,8,"330","Resistors_SMD:R_0805","~"
+RV1 RV2 RV3 RV4 RV5 RV6 RV7 RV8 ,8,"100k","Local:AlpsRK09K","~"
+SW1 ,1,"SW_Push","Buttons_Switches_THT:SW_PUSH_6mm_h9.5mm",""
+SW2 SW3 SW4 SW5 SW6 SW7 SW8 SW9 ,8,"SW_SPDT_MSM","Local:SP1MS1",""
+U1 ,1,"ATmega328PB-AU","Housings_QFP:TQFP-32_7x7mm_Pitch0.8mm","http://ww1.microchip.com/downloads/en/DeviceDoc/40001906C.pdf"
