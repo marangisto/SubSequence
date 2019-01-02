@@ -134,7 +134,7 @@ F 3 "" H 4300 5250 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L MCU_Microchip_ATmega:ATmega328PB-AU U1
+L SubSequence-rescue:ATmega328PB-AU-MCU_Microchip_ATmega U1
 U 1 1 5BAD54B6
 P 4300 3650
 F 0 "U1" H 4300 5328 50  0000 C CNN
